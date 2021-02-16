@@ -1,0 +1,31 @@
+.logo-img {
+  max-width: 50px;
+}
+
+#title {
+  font-family: 'Aclonica';
+}
+
+.col-sm-6.item {
+  margin-bottom: 23px;
+}
+
+.navbar.navbar-light.navbar-expand-md.sticky-top {
+  background-color: rgba(255,255,255,0.95);
+}
+
+.card-body.total-orders {
+  background-color: #594fb7;
+  color: rgb(255,255,255);
+}
+
+.card-body.orders-deliverred {
+  background-color: #a2a2a2;
+}
+
+.card-body.orders-pending {
+  background-color: #faa3a3;
+}
+
+
+
